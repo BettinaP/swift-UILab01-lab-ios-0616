@@ -35,9 +35,10 @@
                                 </connections>
                             </segmentedControl>
                         </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <connections>
-                        <outlet property="lightBulb" destination="8bC-Xf-vdC" id="AgI-py-jPN"/>
+                        <outlet property="lightBulb" destination="pLf-R6-8Ds" id="GEi-M9-MpZ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
